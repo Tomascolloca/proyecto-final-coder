@@ -1,0 +1,47 @@
+*{padding: 0;
+    margin: 0;
+    box-sizing: 0;}
+
+a {text-decoration: none;
+color: rgba(47, 40, 40, 0.718);}
+
+ul , li { list-style: none;
+color: black ;
+gap: 10px; 
+font-size: 18px;}
+
+
+/*-----header-----*/
+.header{ 
+padding: 5px;
+}
+
+.titulo_principal{} /*esta borrado por ahora */
+
+.logo{width: 80px;
+padding-left: 7px;}
+
+.nav-link:hover{
+    background-color: rgba(33, 176, 224, 0.894);
+    border-radius: 1rem;
+}
+
+/*-----carrusel-------*/
+.carousel-item {
+    height: 
+  }
+
+  .carousel-inner{height: 70vh;}
+
+
+
+
+
+
+
+ 
+  
+  
+
+ 
+  
